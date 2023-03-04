@@ -1,16 +1,37 @@
-# news_app
+# News App
 
-A new Flutter project.
+## Project Description
+- News app letting you know the latest news!
+- Showing news from **News API**: https://newsapi.org/
+- Uses the **Bloc** concept.
+- Uses Cache to store the value of Dark Mode Feature.
 
-## Getting Started
+## Screenshots and Features
+- You can see Business, Sports, Science News
 
-This project is a starting point for a Flutter application.
+  <img src="/screenshots/1.png" height="400"> &nbsp; &nbsp; &nbsp; <img src="/screenshots/2.png" height="400"> &nbsp; &nbsp; &nbsp; <img src="/screenshots/3.png" height="400"> 
+  
+- Turn on Dark mode
+  
+  <img src="/screenshots/4.png" height="400">
+  
+- Search for specific news
 
-A few resources to get you started if this is your first Flutter project:
+  <img src="/screenshots/5.png" height="400">
+  
+- Click on the one you are interested in. and read the whole article
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   <img src="/screenshots/6.png" height="400">
+   
+ ## Tools and Plugins
+ - Plugins
+    - bloc
+    - flutter_bloc
+    - dio
+    - conditional_builder_null_safety
+    - shared_preferences
+    - webview_flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Tools
+  - Dart Language
+  - Flutter Framework
