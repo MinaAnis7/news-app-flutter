@@ -1,4 +1,8 @@
 # News App
+## Table of contents
+- [Project Description](#project-description)
+- [Screenshots and Features](#screenshots-and-features)
+- [Tools and Plugins](#tools-and-plugins)
 
 ## Project Description
 - News app letting you know the latest news!
